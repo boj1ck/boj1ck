@@ -60,19 +60,22 @@ I take custom orders. Whether you need a script built from scratch or an existin
 > 📬 **Best way to reach me:** Discord — link above
 
 ---
+
 ## 📊 GitHub Stats
- 
+
 <div align="center">
+
 ![](https://komarev.com/ghpvc/?username=boj1ck&style=for-the-badge&color=F40552&label=PROFILE+VIEWS)
- 
+
 | Stat | Value |
 |------|-------|
 | 🗂️ Public Repos | 13 |
 | ⭐ Total Stars | 63+ |
 | 👥 Followers | 18 |
 | 🔤 Main Language | Lua |
- 
+
 </div>
+
 ---
 
 <div align="center">
