@@ -4,7 +4,7 @@
 
 **FiveM & RedM Developer · Lua · JavaScript · HTML/CSS**
 
-[![Discord](https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOURLINK)
+[![Discord](https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/1204524137406537738)
 [![GitHub followers](https://img.shields.io/github/followers/boj1ck?style=for-the-badge&logo=github&logoColor=white&color=161b22)](https://github.com/boj1ck?tab=followers)
 [![Stars](https://img.shields.io/github/stars/boj1ck?style=for-the-badge&logo=github&logoColor=white&color=161b22)](https://github.com/boj1ck?tab=repositories)
 
